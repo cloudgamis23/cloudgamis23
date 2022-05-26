@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cloudgamis23
 - 👀 I’m interested in Cloud Computing
 - 🌱 I’m currently learning Azure, Linux, Python & Devops practices
-- 💞️ I’m looking to collaborate on a handful of prjects
+- 💞️ I’m looking to collaborate on a handful of projects
 - 📫 How to reach me alidirie6@gmail.com
 
 <!---
